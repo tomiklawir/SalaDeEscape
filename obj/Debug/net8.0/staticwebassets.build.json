@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g/4GuD+zpOrBC7i5oEo3D746hVGMaC0IThE6L2BztVA=",
+  "Hash": "RToIWSWtZGLKyJrOc0AwH1gVzmub+1TuRDL5XycNEQY=",
   "Source": "SalaDeEscape",
   "BasePath": "_content/SalaDeEscape",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SalaDeEscape\\wwwroot",
       "Source": "SalaDeEscape",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\audio\\audio-profesor.mpeg",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\audio\\audio-profesor.mpeg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "audio/audio-profesor.mpeg",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\audio-profesor.mpeg"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\css\\site.css",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\css\\site.css",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\favicon.ico",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\favicon.ico",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\abc.jpeg",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\img\\abc.jpeg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/abc.jpeg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\img\\abc.jpeg"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\abierta.jpeg",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\img\\abierta.jpeg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/abierta.jpeg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\img\\abierta.jpeg"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\anagrama.jpeg",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\img\\anagrama.jpeg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/anagrama.jpeg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\anagrama.jpeg"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\banco.jpeg",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\img\\banco.jpeg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/banco.jpeg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banco.jpeg"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\boveda.jpg",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\img\\boveda.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/boveda.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\boveda.jpg"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\casa.webp",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\img\\casa.webp",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/casa.webp",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\casa.webp"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\casade.jfif",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\img\\casade.jfif",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/casade.jfif",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\casade.jfif"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\casadepapel.jpg",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\img\\casadepapel.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/casadepapel.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\casadepapel.jpg"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\logo scaperoom.jfif",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\img\\logo scaperoom.jfif",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/logo scaperoom.jfif",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo scaperoom.jfif"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\logo.jfif",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\img\\logo.jfif",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/logo.jfif",
       "AssetKind": "All",
@@ -264,10 +264,29 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.jfif"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\martin.jpg",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\img\\logo2.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
+      "BasePath": "_content/SalaDeEscape",
+      "RelativePath": "img/logo2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo2.jpg"
+    },
+    {
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\img\\martin.jpg",
+      "SourceId": "SalaDeEscape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/martin.jpg",
       "AssetKind": "All",
@@ -283,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\martin.jpg"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\oficina.jfif",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\img\\oficina.jfif",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/oficina.jfif",
       "AssetKind": "All",
@@ -302,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\oficina.jfif"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\pirami2.jpg",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\img\\pirami2.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/pirami2.jpg",
       "AssetKind": "All",
@@ -321,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pirami2.jpg"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\tomi.jpg",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\img\\tomi.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/tomi.jpg",
       "AssetKind": "All",
@@ -340,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\tomi.jpg"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\uri.jpg",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\img\\uri.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/uri.jpg",
       "AssetKind": "All",
@@ -359,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uri.jpg"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\js\\site.js",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\js\\site.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -378,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -397,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -416,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -435,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -454,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -473,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -492,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -511,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -530,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -549,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -568,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -587,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

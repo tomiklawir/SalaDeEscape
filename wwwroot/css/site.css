@@ -19,7 +19,11 @@
     border-radius: 10px;
     box-shadow: 0 0 10px #000, 0 0 20px #444, 0 0 30px #666;
     margin: 20px;
+    
  }
+.seccion img{
+    width: 15%;
+}
 
 header {
     background-color: #444;
@@ -56,12 +60,7 @@ div h3 {
     
     margin-bottom: 10px;
 }   
-.seccion img {
-    width: 100%;
-    height: 150px;
-    object-fit: cover;
-    border-radius: 10px;
-}
+
 .ofice img{
     display: flex;
     margin-left: 25%;
