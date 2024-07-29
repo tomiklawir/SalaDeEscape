@@ -1,0 +1,38 @@
+@{
+    ViewData["Title"] = "Tutorial";
+    ViewBag.ClaseBody = "general";
+}
+
+<header class="seccion">
+    <h1>TUTORIAL</h1>
+</header>
+    <div>
+        <p>
+            Explicacion de la tematica: Este scaperoom se trata de un robo al banco de España en el cual
+            mediante diferentes pistas deberas entrar, NO CREAS QUE SERA FACIL.
+        </p>
+    </div>
+    <div>
+        <p>
+            Nos basamos en la serie "La Casa de Papel", en la cual roban el banco de España mediante una espectacular estrategia.
+            En este verás 3 salas con 3 distintos codigos que deberas desifrar mediante pistas.
+            Y estas son:
+        </p>
+    </div>
+    <section class="seccion">
+        <div class="imgSalas">
+            <h3>Oficina</h3>
+            <img src="~/img/oficina.jfif" alt="">
+        </div>
+        <div class="imgSalas">
+            <h3>Fuera de la boveda</h3>
+            <img src="~/img/boveda.jpg" alt="">
+        </div>
+        <div class="imgSalas">
+            <h3>Dentro de la boveda</h3>
+            <img src="~/img/abierta.jpeg" alt="">
+        </div>
+    </section>
+    <p>
+        <a href="@Url.Action("Comenzar")">Comenzar el juego</a>
+    </p>

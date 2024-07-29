@@ -1,0 +1,80 @@
+@{
+  ViewData["bovedaoscura"] = "bovedaoscura";
+  ViewBag.ClaseBody = "bovedaoscura";
+}
+
+<header class="seccion">
+        <h1>DENTRO DE LA BOVEDA</h1>
+    </header>
+    <section class="espacio">
+        <div>
+            <p >
+                Estas dentro de la gran boveda del banco de España, el entrar se te cerro repentinamente la puerta y no podes ver nada mas que una caja para insertar un codigo.
+                ¿Como podras saber el codigo sin ver nada?
+            </p>
+        </div>
+    </section>
+    <section class="espacio">
+         <div class="num1">
+            <h4>17</h4>
+        </div>
+        <div class="num2">
+            <h4>82</h4>
+        </div>  
+    </section>
+       
+        <div class="numerofinal">
+            <input type="text" id="finalAnswer" placeholder="ingrese la respuesta final">
+            <button class="verify" onclick="verifyAnswer()">Verificar</button>
+        </div>
+        <div class="container">
+            <button id="show-modal-1">Mostrar pista 1</button>
+            <button id="show-modal-2">Mostrar pista 2</button>
+          </div>
+        
+          <div id="overlay" class="overlay"></div>
+        
+          <div id="modal-1" class="modal">
+            <h2>Pista!</h2>
+            <p>Fijese bien por donde camina, a lo mejor hay cosas que no ve</p>
+            <button id="close-modal-1">Cerrar</button>
+          </div>
+        
+          <div id="modal-2" class="modal">
+            <h2>Pista!</h2>
+            <p>Busque por los laterales</p>
+            <button id="close-modal-2">Cerrar</button>
+          </div>
+        
+              
+        <script>
+                  document.getElementById('show-modal-1').addEventListener('click', function() {
+            document.getElementById('modal-1').style.display = 'block';
+            document.getElementById('overlay').style.display = 'block';
+          });
+      
+          document.getElementById('close-modal-1').addEventListener('click', function() {
+            document.getElementById('modal-1').style.display = 'none';
+            document.getElementById('overlay').style.display = 'none';
+          });
+      
+          document.getElementById('show-modal-2').addEventListener('click', function() {
+            document.getElementById('modal-2').style.display = 'block';
+            document.getElementById('overlay').style.display = 'block';
+          });
+      
+          document.getElementById('close-modal-2').addEventListener('click', function() {
+            document.getElementById('modal-2').style.display = 'none';
+            document.getElementById('overlay').style.display = 'none';
+          });
+
+          function verifyAnswer() {
+                const finalAnswer = document.getElementById('finalAnswer').value;
+                if (finalAnswer == '1782') {
+                    window.location.href =  '@Url.Action("boveda")';
+                
+                } else {
+                    alert("Incorrecto");
+                }
+              }
+        </script>

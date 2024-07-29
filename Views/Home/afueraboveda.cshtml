@@ -1,0 +1,79 @@
+@{
+  ViewData["afueraboveda"] = "afueraboveda";
+  ViewBag.ClaseBody = "general";
+}
+
+<header class="seccion">
+        <h1>AFUERA DE LA BOVEDA</h1>
+    </header>
+    <section>
+        <div class="ofice">
+            <img src="~/img/boveda.jpg" alt="">
+        </div>
+        <div>
+            <p>
+                Estas afuera de la gran boveda del banco de España, dentro hay mucho dinero, pero para entrar se requiere un codigo,
+                este podras descubrirlo luego de haber finalizado el crucigrama que veras a continuacion.
+            </p>
+        </div>
+        <div class="ofice">
+            <img src="~/img/anagrama.jpeg" alt="">
+            <img src="~/img/abc.jpeg" alt="">
+        </div>
+    </section>
+    <div class="numerofinal">
+        <p>Luego de terminar el crucigrama debes escribir la palabra correcta para pasar a la siguiente habitación, si necesitas la pista utilizala</p>
+        <input type="text" id="finalAnswer" placeholder="ingrese la respuesta final">
+        <button class="verify" onclick="verifyAnswer()">Verificar</button>
+    </div>
+    <div class="container">
+      <button id="show-modal-1">Mostrar pista 1</button>
+      <button id="show-modal-2">Mostrar pista 2</button>
+    </div>
+  
+    <div id="overlay" class="overlay"></div>
+  
+    <div id="modal-1" class="modal">
+      <h2>Pista!</h2>
+      <p>A lo mejor tiene que mirar más detalladamente la consigna</p>
+      <button id="close-modal-1">Cerrar</button>
+    </div>
+  
+    <div id="modal-2" class="modal">
+      <h2>Pista!</h2>
+      <p>Solamente estando la palabra correcta podrá pasar a otra sala</p>
+      <button id="close-modal-2">Cerrar</button>
+    </div>
+  
+        
+        <script>   
+             document.getElementById('show-modal-1').addEventListener('click', function() {
+            document.getElementById('modal-1').style.display = 'block';
+            document.getElementById('overlay').style.display = 'block';
+          });
+      
+          document.getElementById('close-modal-1').addEventListener('click', function() {
+            document.getElementById('modal-1').style.display = 'none';
+            document.getElementById('overlay').style.display = 'none';
+          });
+      
+          document.getElementById('show-modal-2').addEventListener('click', function() {
+            document.getElementById('modal-2').style.display = 'block';
+            document.getElementById('overlay').style.display = 'block';
+          });
+      
+          document.getElementById('close-modal-2').addEventListener('click', function() {
+            document.getElementById('modal-2').style.display = 'none';
+            document.getElementById('overlay').style.display = 'none';
+          });
+
+          function verifyAnswer() {
+            const finalAnswer = document.getElementById('finalAnswer').value;
+            if (finalAnswer == 'correcta') {
+                window.location.href =  '@Url.Action("bovedaoscura")';
+            
+            } else {
+                alert("Incorrecto");
+            }
+          }
+        </script>

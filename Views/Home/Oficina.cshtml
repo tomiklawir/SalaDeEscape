@@ -1,0 +1,86 @@
+@{
+    ViewData["Title"] = "Oficina";
+    ViewBag.ClaseBody = "general";
+}
+  <header class="seccion">
+    <h1>OFICINA</h1>
+  </header>
+    <section class="ofice">
+        <div>
+            <audio controls autoplay>
+                <source src="/audio/audio-profesor.mpeg">
+            </audio>
+            <img src="~/img/oficina.jfif" alt="">
+        </div>
+        <div>
+            <p>Estas en la oficina del director del banco. Hay una caja fuerte, para resolver el código necesitarás completar la siguiente pirámide numérica.
+                Dato importante, el director del banco es fanático de la selección española.
+            </p>
+        </div>
+    </section>
+    <section class="bordePiramide">
+        <div class="piramide">
+            <img src="~/img/pirami2.jpg" alt="">
+            <input type="text" placeholder="numero 1">
+            <input type="text" placeholder="numero 2">
+            <input type="text" placeholder="numero 3">
+            <input type="text" placeholder="numero 4">
+            <input type="text" placeholder="numero 5">
+        </div>
+        <div class="numerofinal">
+            <p>Luego de terminar la pirámide debes escribir el número correcto para pasar a la siguiente habitación, si necesitas la pista utilízala</p>
+            <input type="text" id="finalAnswer" placeholder="ingrese la respuesta final">
+            <button class="verify" onclick="verifyAnswer()">Verificar</button>
+        </div>
+        <div class="container">
+            <button id="show-modal-1">Mostrar pista 1</button>
+            <button id="show-modal-2">Mostrar pista 2</button>
+          </div>
+        
+          <div id="overlay" class="overlay"></div>
+        
+          <div id="modal-1" class="modal">
+            <h2>Pista!</h2>
+            <p>Suma entre la punta de la pirámide y el año en el que la selección española salió campeona del mundo por última vez</p>
+            <button id="close-modal-1">Cerrar</button>
+          </div>
+        
+          <div id="modal-2" class="modal">
+            <h2>Pista!</h2>
+            <p>Ningun numero se repite</p>
+            <button id="close-modal-2">Cerrar</button>
+          </div>
+        
+              
+              <script>
+                  document.getElementById('show-modal-1').addEventListener('click', function() {
+            document.getElementById('modal-1').style.display = 'block';
+            document.getElementById('overlay').style.display = 'block';
+          });
+      
+          document.getElementById('close-modal-1').addEventListener('click', function() {
+            document.getElementById('modal-1').style.display = 'none';
+            document.getElementById('overlay').style.display = 'none';
+          });
+      
+          document.getElementById('show-modal-2').addEventListener('click', function() {
+            document.getElementById('modal-2').style.display = 'block';
+            document.getElementById('overlay').style.display = 'block';
+          });
+      
+          document.getElementById('close-modal-2').addEventListener('click', function() {
+            document.getElementById('modal-2').style.display = 'none';
+            document.getElementById('overlay').style.display = 'none';
+          });
+              function verifyAnswer() {
+                const finalAnswer = document.getElementById('finalAnswer').value;
+                if (finalAnswer == '2586') {
+                    window.location.href =  '@Url.Action("afueraboveda")';
+                
+                } else {
+                    alert("Incorrecto");
+                }
+              }
+            </script>
+        </div>
+    </section>

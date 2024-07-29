@@ -1,0 +1,145 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\audio\\audio-profesor.mpeg",
+      "PackagePath": "staticwebassets\\audio\\audio-profesor.mpeg"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\abc.jpeg",
+      "PackagePath": "staticwebassets\\img\\abc.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\abierta.jpeg",
+      "PackagePath": "staticwebassets\\img\\abierta.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\anagrama.jpeg",
+      "PackagePath": "staticwebassets\\img\\anagrama.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\banco.jpeg",
+      "PackagePath": "staticwebassets\\img\\banco.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\boveda.jpg",
+      "PackagePath": "staticwebassets\\img\\boveda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\casa.webp",
+      "PackagePath": "staticwebassets\\img\\casa.webp"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\casade.jfif",
+      "PackagePath": "staticwebassets\\img\\casade.jfif"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\casadepapel.jpg",
+      "PackagePath": "staticwebassets\\img\\casadepapel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\logo scaperoom.jfif",
+      "PackagePath": "staticwebassets\\img\\logo scaperoom.jfif"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\logo.jfif",
+      "PackagePath": "staticwebassets\\img\\logo.jfif"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\martin.jpg",
+      "PackagePath": "staticwebassets\\img\\martin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\oficina.jfif",
+      "PackagePath": "staticwebassets\\img\\oficina.jfif"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\pirami2.jpg",
+      "PackagePath": "staticwebassets\\img\\pirami2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\tomi.jpg",
+      "PackagePath": "staticwebassets\\img\\tomi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\img\\uri.jpg",
+      "PackagePath": "staticwebassets\\img\\uri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\carok\\Desktop\\Tomi\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SalaDeEscape.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SalaDeEscape.props",
+      "PackagePath": "build\\SalaDeEscape.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SalaDeEscape.props",
+      "PackagePath": "buildMultiTargeting\\SalaDeEscape.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SalaDeEscape.props",
+      "PackagePath": "buildTransitive\\SalaDeEscape.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
